@@ -1,2 +1,7 @@
-# POO-Universidad-2026
-Ejercicios y proyectos de la materia "Programación Orientada a objetos"
+#Programacion Orientada a Objetos
+
+Alumno: Edgar Jhoel Ramirez Ramirez
+
+Carrera: Ingenieria en Sistemas Computacionales
+
+Repositorio destinado al almacenamientos de los proyectos y actividades de la materia
